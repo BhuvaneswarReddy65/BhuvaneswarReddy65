@@ -1,11 +1,10 @@
-
 [![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)](https://bhuvaneswarreddy65.io)
 <h1 align="center">Hi 👋, I'm Bhuvaneswar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coading" width="400" src="https://res.cloudinary.com/dpielityo/image/upload/v1703054431/azracfjocmtrwq9unh75.jpg"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvaneswarreddy65&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvaneswarreddy65" /> </p>
 
-<p align="left"> <a href="https://twitter.com/bhuvaneswar" target="blank"><img src="https://img.shields.io/twitter/follow/bhuvaneswar?logo=twitter&style=for-the-badge" alt="bhuvaneswar" /></a> </p>
+<p align="left"> <a href="https://twitter.com/bhuvaneswar67" target="blank"><img src="https://img.shields.io/twitter/follow/bhuvaneswar67?logo=twitter&style=for-the-badge" alt="bhuvaneswar67" /></a> </p>
 
 - 🔭 I’m currently working on **Mobzway**
 
@@ -17,8 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/BhuvanEswar67?s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhuvaneswar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bhuvaneswarreddymorum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhuvaneswarreddymorum" height="30" width="40" /></a>
+<a href="https://twitter.com/bhuvaneswar67" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhuvaneswar67" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bhuvaneswar5251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhuvaneswar5251" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,4 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhuvaneswarreddy65&show_icons=true&locale=en" alt="bhuvaneswarreddy65" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhuvaneswarreddy65&" alt="bhuvaneswarreddy65" /></p>
-<
